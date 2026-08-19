@@ -2,12 +2,14 @@
 
 Static site, no build step. Core files:
 
-- `index.html` — page shell/structure (rarely touched)
+- `index.html` — homepage shell/structure (rarely touched)
+- `project.html` — case study page template, shared by every project; reads `?id=<slug>` from the URL
 - `styles.css` — all visual styling
-- `script.js` — all behavior: loads `projects/manifest.json`, renders the Work list, filtering, the project popup, scroll reveals
+- `script.js` — index.html behavior: loads `projects/manifest.json`, renders the Work list as links to `project.html?id=<slug>`, filtering, scroll reveals
+- `project.js` — project.html behavior: fetches `projects/<slug>.json` for the id in the URL and renders it as a full case study page
 - `facts.js` — shared facts (years of experience, employers, resume link, publications, contact links) — edit once here, synced everywhere via `data-fact*` attributes
 - `projects/manifest.json` — one entry per project, in display order, drives the Work list rows
-- `projects/<slug>.json` — one file per project, drives that project's popup content
+- `projects/<slug>.json` — one file per project, drives that project's case study page (opens at `project.html?id=<slug>`, a full page — not a popup)
 - `images/<slug>/` — that project's photos, referenced by relative path from its JSON
 
 ## Adding a new project
@@ -57,4 +59,4 @@ Static site, no build step. Core files:
 
 ## Editing styling
 
-Edit `styles.css` (or `script.js` for behavior) — the JSON content files are never touched by a styling change. Only a genuine content *schema* change (a new field type in a popup template) needs both a JSON edit and a `script.js` render-function edit.
+Edit `styles.css` (or `script.js` / `project.js` for behavior) — the JSON content files are never touched by a styling change. Only a genuine content *schema* change (a new field type in a template) needs both a JSON edit and a matching edit to `renderProject()` in `project.js`.

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "karya-learn",
+    "year": "2023 — 2025",
+    "yearAccent": false,
+    "title": "Karya Learn",
+    "subtitle": "Upskilling Platform for Rural Annotators",
+    "employer": "Karya",
+    "type": "program-research research",
+    "tags": [{ "label": "Program Design" }]
+  },
+  {
+    "id": "kahani",
+    "year": "2024 — 2025",
+    "yearAccent": false,
+    "title": "Kahani",
+    "subtitle": "Story Based Curriculums via Agentic LLM",
+    "employer": "Karya",
+    "type": "research",
+    "tags": [{ "label": "Research" }]
+  },
+  {
+    "id": "akal-badi",
+    "year": "2024",
+    "yearAccent": false,
+    "title": "Akal Badi ya Bias",
+    "subtitle": "Gender Bias in Hindi LLMs",
+    "employer": "Karya",
+    "type": "research",
+    "tags": [{ "label": "Research" }]
+  },
+  {
+    "id": "zen",
+    "year": "2022",
+    "yearAccent": false,
+    "title": "Zen",
+    "subtitle": "Mental Wellbeing Platform",
+    "employer": "Microsoft Research",
+    "type": "product-design",
+    "tags": [{ "label": "Product Design" }]
+  },
+  {
+    "id": "on-the-dot",
+    "year": "2019",
+    "yearAccent": false,
+    "title": "On the Dot",
+    "subtitle": "Furniture Collection",
+    "employer": "Studio Wood",
+    "type": "furniture",
+    "tags": [{ "label": "Furniture Design" }]
+  },
+  {
+    "id": "pottery",
+    "year": "Ongoing",
+    "yearAccent": true,
+    "title": "Pottery",
+    "subtitle": "Studio Ceramics Practice",
+    "employer": "Personal Practice",
+    "type": "craft",
+    "tags": [{ "label": "Ceramics" }]
+  },
+  {
+    "id": "vitm",
+    "year": "2018",
+    "yearAccent": false,
+    "title": "Talking Devices",
+    "subtitle": "Exhibition at VITM",
+    "employer": "Workbench Projects + India Foundation for the Arts",
+    "type": "installation",
+    "tags": [{ "label": "Interactive Installation" }]
+  },
+  {
+    "id": "gulbarga",
+    "year": "2018",
+    "yearAccent": false,
+    "title": "Gulbarga Museum Project",
+    "subtitle": "Interactive Archive & Installation",
+    "employer": "Srishti Manipal Institute",
+    "type": "product-design installation",
+    "tags": [{ "label": "Product Design" }, { "label": "Interactive Installation", "secondary": true }]
+  },
+  {
+    "id": "invrse",
+    "year": "2019 — 2021",
+    "yearAccent": false,
+    "title": "Invrse Cricket",
+    "subtitle": "Haptic Feedback VR Controller",
+    "employer": "Studio Griot",
+    "type": "hardware",
+    "tags": [{ "label": "Hardware Design" }]
+  },
+  {
+    "id": "rytlife",
+    "year": "2021",
+    "yearAccent": false,
+    "title": "Ryt.Life",
+    "subtitle": "Mental Healthcare Platform",
+    "employer": "Independent",
+    "type": "product-design",
+    "tags": [{ "label": "Product Design" }]
+  },
+  {
+    "id": "smarana",
+    "year": "2025",
+    "yearAccent": false,
+    "title": "Smarana Document Storage",
+    "subtitle": "User Onboarding Flow",
+    "employer": "Independent",
+    "type": "product-design",
+    "tags": [{ "label": "Product Design" }]
+  },
+  {
+    "id": "fine",
+    "year": "Ongoing",
+    "yearAccent": true,
+    "title": "Fine",
+    "subtitle": "AI Task Manager for Neurodivergent Minds",
+    "employer": "Personal Project",
+    "type": "product-design",
+    "tags": [{ "label": "Product Design" }]
+  },
+  {
+    "id": "quest",
+    "year": "2026",
+    "yearAccent": false,
+    "title": "Model School Program Website",
+    "subtitle": "",
+    "employer": "Independent",
+    "type": "website",
+    "tags": [{ "label": "Website" }]
+  },
+  {
+    "id": "whitebox",
+    "year": "2026",
+    "yearAccent": false,
+    "title": "Whitebox Website",
+    "subtitle": "",
+    "employer": "Independent",
+    "type": "website",
+    "tags": [{ "label": "Website" }]
+  },
+  {
+    "id": "debashree",
+    "year": "2025",
+    "yearAccent": false,
+    "title": "Debashree Unni Psychotherapy Website",
+    "subtitle": "",
+    "employer": "Independent",
+    "type": "website",
+    "tags": [{ "label": "Website" }]
+  },
+  {
+    "id": "student-work",
+    "year": "2014 — 2018",
+    "yearAccent": false,
+    "title": "Student Work",
+    "subtitle": "Selected Studio Projects, B.Des",
+    "employer": "Srishti Manipal Institute",
+    "type": "student-work",
+    "tags": [{ "label": "Student Work" }]
+  }
+]

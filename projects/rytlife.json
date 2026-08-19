@@ -1,0 +1,20 @@
+{
+  "id": "rytlife",
+  "template": 2,
+  "tag": "Product Design · Freelance",
+  "title": "Ryt.Life",
+  "meta": "2021",
+  "heroImg": "",
+  "stats": [
+    { "label": "Year", "value": "2021" },
+    { "label": "Role", "value": "UI/UX Designer" },
+    { "label": "Type", "value": "Healthcare Platform" }
+  ],
+  "about": "Add project description here.",
+  "process": [
+    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
+    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
+    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+  ],
+  "images": ["", ""]
+}

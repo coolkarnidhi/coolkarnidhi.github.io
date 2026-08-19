@@ -1,0 +1,20 @@
+{
+  "id": "zen",
+  "template": 2,
+  "tag": "Product Design · Microsoft Research",
+  "title": "Zen — MSR",
+  "meta": "2022",
+  "heroImg": "",
+  "stats": [
+    { "label": "Year", "value": "2022" },
+    { "label": "Role", "value": "Research Intern" },
+    { "label": "Advisor", "value": "Sameer Segal" }
+  ],
+  "about": "Add project description here.",
+  "process": [
+    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
+    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
+    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+  ],
+  "images": ["", ""]
+}

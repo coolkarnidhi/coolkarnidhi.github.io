@@ -1,0 +1,20 @@
+{
+  "id": "fine",
+  "template": 2,
+  "tag": "Web App · Personal Project",
+  "title": "Fine — AI Powered Task Manager",
+  "meta": "2026",
+  "heroImg": "",
+  "stats": [
+    { "label": "Year", "value": "2026" },
+    { "label": "Role", "value": "Designer & Builder" },
+    { "label": "For", "value": "Neurodivergent brains" }
+  ],
+  "about": "Add project description here.",
+  "process": [
+    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
+    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
+    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+  ],
+  "images": ["", ""]
+}

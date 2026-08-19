@@ -1,0 +1,20 @@
+{
+  "id": "smarana",
+  "template": 2,
+  "tag": "Product Design · Freelance",
+  "title": "Smarana Document Storage",
+  "meta": "2025",
+  "heroImg": "",
+  "stats": [
+    { "label": "Year", "value": "2025" },
+    { "label": "Role", "value": "Product Designer" },
+    { "label": "Type", "value": "Onboarding Flow" }
+  ],
+  "about": "Add project description here.",
+  "process": [
+    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
+    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
+    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+  ],
+  "images": ["", ""]
+}

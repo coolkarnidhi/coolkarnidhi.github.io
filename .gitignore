@@ -1,0 +1,11 @@
+.DS_Store
+.claude/
+
+# Resumes are kept local-only for now — not yet linked from the site.
+# Revisit when facts.js's resumeUrl is wired to a real file.
+Resumes/
+
+# Superseded drafts from earlier site iterations — kept on disk, not published.
+nidhi-portfolio (1).html
+site-practice.html
+site-professional.html

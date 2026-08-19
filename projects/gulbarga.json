@@ -1,0 +1,20 @@
+{
+  "id": "gulbarga",
+  "template": 2,
+  "tag": "Product & Research · Srishti Manipal Institute",
+  "title": "The Gulbarga Museum Project",
+  "meta": "2018",
+  "heroImg": "",
+  "stats": [
+    { "label": "Year", "value": "2018" },
+    { "label": "Role", "value": "Designer & Researcher" },
+    { "label": "Funded by", "value": "Aga Khan Trust" }
+  ],
+  "about": "Add project description here.",
+  "process": [
+    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
+    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
+    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+  ],
+  "images": ["", ""]
+}

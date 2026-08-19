@@ -1,0 +1,20 @@
+{
+  "id": "karya-learn",
+  "template": 2,
+  "tag": "Product & Research · Karya",
+  "title": "Karya Learn",
+  "meta": "2023 — 2025",
+  "heroImg": "",
+  "stats": [
+    { "label": "Year", "value": "2023 — 2025" },
+    { "label": "Role", "value": "Program Lead" },
+    { "label": "Impact", "value": "41.6% improvement", "accent": true }
+  ],
+  "about": "Add project description here.",
+  "process": [
+    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
+    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
+    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+  ],
+  "images": ["", ""]
+}

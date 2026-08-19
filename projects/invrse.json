@@ -5,9 +5,9 @@
   "title": "Invrse Cricket",
   "meta": "2019 — 2021",
   "heroImg": "",
-  "about": "Add project description here.",
-  "role": "Add your role here.",
-  "tools": "Unreal Engine, PCB design, 3D printing",
-  "outcome": "Add outcome here.",
+  "about": "Studio Griot's FeVR Pitch Cricket puts players in a VR batting crease — but a standard Oculus controller can't replicate the feel of actually swinging a bat. I designed, prototyped, and tested Khargosh, a proprietary haptic-feedback bat mount that clips onto the left controller and turns an in-game hit into a physical jolt the player feels in their hand.",
+  "role": "Product Design Consultant, working across the whole physical build — PCB design and motor/circuit prototyping for the haptic feedback, 3D-modelled and printed enclosures (including a custom bat holster), and Bluetooth integration with the game through Unreal Engine — plus menu and interaction design for the game's own UI (Main Menu, Play Menu, Bat Settings).",
+  "tools": "Unreal Engine, PCB design, Arduino, 3D printing",
+  "outcome": "The controller moved from motor-and-circuit test rigs to a manufacturable PCB and enclosure, with Khargosh specified as the game's proprietary bat-mount option alongside third-party grip support — and a full menu system designed and handed off for the game's UI.",
   "images": ["", "", ""]
 }

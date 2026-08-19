@@ -10,11 +10,11 @@
     { "label": "Role", "value": "Research Intern" },
     { "label": "Advisor", "value": "Sameer Segal" }
   ],
-  "about": "Add project description here.",
+  "about": "Zen was Microsoft Research's prototype mental wellbeing app — video-led courses on stress, emotions, and everyday wellness, hosted by a practicing counselling psychologist and grounded in real research rather than generic self-help platitudes. As part of a small team advised by Sameer Segal, I worked on the product's content and interaction design, running competitive research against comparable wellbeing apps and helping design and run an internal user study on an early build before it moved further.",
   "process": [
-    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
-    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
-    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+    { "num": "01 — Problem", "title": "Wellness content that's actually credible", "text": "Most consumer wellness content is either too clinical to stick with or too vague to trust. Zen aimed for neither — evidence-backed video courses, citing real research, hosted by a licensed counselling psychologist." },
+    { "num": "02 — Approach", "title": "Competitive research, then a real test", "text": "I ran a full critique of comparable apps to map what was and wasn't working elsewhere, then helped design and run an internal study on Zen's v0.2.7 prototype — informal, recorded feedback sessions with participants asked to use the app organically for at least two hours." },
+    { "num": "03 — Outcome", "title": "Feeding straight back into the next build", "text": "Findings from the internal study and the competitive critique fed directly into content and interaction decisions for Zen's next iteration." }
   ],
   "images": ["", ""]
 }

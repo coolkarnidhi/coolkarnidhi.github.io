@@ -8,13 +8,13 @@
   "stats": [
     { "label": "Year", "value": "2018" },
     { "label": "Role", "value": "Designer & Researcher" },
-    { "label": "Funded by", "value": "Aga Khan Trust" }
+    { "label": "Funded by", "value": "Aga Khan Trust for Culture" }
   ],
-  "about": "Add project description here.",
+  "about": "The Government Museum of Gulbarga holds 630 stone sculptures across three galleries — Chalukyan and Rashtrakutan sculpture, colonial-era artefacts, and pieces from Sannati, a UNESCO-protected Buddhist site nearby — inside a building that's stood since 1964 and draws almost no visitors; local students I later interviewed had been taken to the Gulbarga fort on school trips, but never to the museum itself. For my final-year thesis at Srishti, in partnership with Team YUVAA, the Aga Khan Trust for Culture, and the Centre for Deccan Studies, I spent weeks in Gulbarga researching how to change that — and came out with a pop-up book, a physical installation, and an app, all built around one of the museum's most striking artefact types: hero stones.",
   "process": [
-    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
-    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
-    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+    { "num": "01 — Problem", "title": "A museum nobody visited", "text": "Gulbarga's district museum has stood since 1964 and houses 630 sculptures across three galleries, but draws almost no visitors — even local students who'd been taken to the city's fort on school trips had never set foot inside it." },
+    { "num": "02 — Approach", "title": "Weeks in the field before any design", "text": "A recce trip through Gulbarga's forts, markets, temples, and craftspeople, then a research trip interviewing archaeologists, teachers, and students and documenting all 630 sculptures gallery by gallery — before a critical-making session became the real turning point for what to actually design." },
+    { "num": "03 — Outcome", "title": "A pop-up book, an installation, and an app", "text": "\"Vandu Veerana Gaathe: Legend of a Hero,\" a pop-up book gamifying the museum's hero stones, evolved into \"Make Your Own Hero Stone\" — a physical installation where visitors assemble their own hero-stone story from characters drawn from real museum sculptures — paired with an artefact-based app that guides visitors through the galleries via QR code and archives what they build." }
   ],
   "images": ["", ""]
 }

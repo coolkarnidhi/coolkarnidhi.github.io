@@ -10,11 +10,11 @@
     { "label": "Role", "value": "UI/UX Designer" },
     { "label": "Type", "value": "Healthcare Platform" }
   ],
-  "about": "Add project description here.",
+  "about": "Ryt.Life is a mental healthcare platform connecting patients with providers — video consultations, appointment booking, and prescription reminders, designed with anonymity and confidentiality as first-class constraints given the sensitivity of the subject. I worked on the UI/UX across the patient, doctor, and admin-facing sides of the product.",
   "process": [
-    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
-    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
-    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+    { "num": "01 — Problem", "title": "Booking care needed to feel safe", "text": "Mental healthcare carries real stigma — booking an appointment, joining a video call, and messaging a doctor all needed to feel private and low-friction, for patients who might already be uneasy about seeking care." },
+    { "num": "02 — Approach", "title": "Mapping every user's flow separately", "text": "I flow-charted the product across its three distinct users — patients booking and rescheduling appointments, doctors managing their own schedules, and admins handling escalations — building in anonymity and confidentiality controls, prescription reminders, and an FAQ layer to reduce hesitation before booking." },
+    { "num": "03 — Outcome", "title": "A reference for engineering handoff", "text": "The flows and UI became the reference for engineering handoff across video consultation, scheduling, and the doctor-facing admin tools." }
   ],
   "images": ["", ""]
 }

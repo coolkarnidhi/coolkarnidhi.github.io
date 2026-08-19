@@ -7,10 +7,10 @@
   "heroImg": "",
   "badge": "Best Paper FAccT '24",
   "authorRole": "Contributing Author",
-  "context": "Add context here.",
-  "question": "Add research question here.",
-  "methodology": "Add methodology here.",
-  "findings": "Add findings here.",
-  "contribution": "Add your specific contribution here.",
+  "context": "Most research on measuring and mitigating gender bias in language technology focuses on English, leaving Hindi — the third most-spoken language in the world — almost entirely unstudied. This paper, with collaborators from Microsoft Research, Karya, TU Delft, Cornell, Carnegie Mellon, and the University of Michigan, is the first comprehensive study of gender bias in Hindi language technology.",
+  "question": "Can gender-bias mining techniques built for English be extended to Hindi — and if not, what does a community-centred alternative actually look like?",
+  "methodology": "The team mined gender-biased sentences computationally — GPT-3.5-generated completions of seed statements, translated into Hindi and manually corrected after machine translation failed quality checks — then ran field studies deploying the annotation task as real, paid digital work through the Karya app, specifically recruiting rural and low-income Hindi-speaking women to identify and rate gender bias, rather than relying on the usual convenience samples.",
+  "findings": "Standard bias-mining methods built for English carried real limitations in Hindi, and the field studies surfaced genuinely different perceptions of what counts as gender-biased language among rural, low-income women than prior, more urban and English-centric studies had assumed — evidence that bias research needs context-specific, community-centred methods rather than one-size-fits-all approaches.",
+  "contribution": "As part of the Karya team, I helped run the field studies — deploying the annotation task to rural, low-income women as paid digital work through the same Karya platform and population behind Karya Learn.",
   "supportImg": ""
 }

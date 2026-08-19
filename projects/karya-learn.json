@@ -8,13 +8,13 @@
   "stats": [
     { "label": "Year", "value": "2023 — 2025" },
     { "label": "Role", "value": "Program Lead" },
-    { "label": "Impact", "value": "41.6% improvement", "accent": true }
+    { "label": "Impact", "value": "+29% test scores (p<0.0001)", "accent": true }
   ],
-  "about": "Add project description here.",
+  "about": "Karya's data annotators are some of the most overworked and underpaid workers in India — but the same digital work that pays them can also teach them something, if it's designed to. I led Karya Learn to test that idea, starting with financial literacy: a nine-chapter, story-based curriculum written in the Sabido method — the same dramatized-storytelling technique long used to teach family planning and public health through soap operas — delivered chapter by chapter on a WhatsApp-style interface, and read aloud by workers as paid data-collection work in its own right.",
   "process": [
-    { "num": "01 — Problem", "title": "The gap", "text": "Add content." },
-    { "num": "02 — Approach", "title": "The method", "text": "Add content." },
-    { "num": "03 — Outcome", "title": "What changed", "text": "Add content." }
+    { "num": "01 — Problem", "title": "Learning and earning were a trade-off", "text": "Rural and semi-urban gig workers doing India's growing data-annotation work had no built-in way to build skills while they earned — the work paid, but it didn't teach anything back." },
+    { "num": "02 — Approach", "title": "A story people could see themselves in", "text": "55 participants (42 women, 13 men) from a stone quarry worker community in Wagholi, Pune — most earning under ₹15,000/month, many without active bank accounts — read aloud and recorded a 9-module financial literacy curriculum built around a relatable protagonist, so the same paid task doubled as both a lesson and a source of usable speech data." },
+    { "num": "03 — Outcome", "title": "Learning, and good data, at once", "text": "Comprehension scores rose from 18.01 to 23.31 out of 27 (p<0.0001, Cohen's d=1.32), 85% of the ~80 hours of recorded speech was rated good-quality data, and several participants reported real behaviour change afterward — trying UPI for the first time, or starting to save small amounts of money." }
   ],
   "images": ["", ""]
 }

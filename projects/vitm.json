@@ -5,9 +5,9 @@
   "title": "Talking Devices",
   "meta": "2018",
   "heroImg": "",
-  "about": "Add project description here.",
-  "role": "Add your role here.",
-  "tools": "Vintage communication devices, electronics",
-  "outcome": "Add outcome here.",
+  "about": "For the Visveswaraya Industrial and Technological Museum in Bangalore, in partnership with Workbench Projects and the India Foundation for the Arts, I designed and built three interactive installations around vintage communication devices — turning objects most visitors would only ever see behind glass into things they could actually use.",
+  "role": "Interaction Designer + Installation Artist — conceptualising, wiring, and fabricating all three pieces myself, from the electronics to the physical builds.",
+  "tools": "Vintage communication devices, electronics (MP3 modules, motors, switches), fabrication",
+  "outcome": "Record Lathe let visitors record their own voice and watch it cut a physical groove into a real record, then play it back. Talking Telephones wired antique phones with MP3 modules so picking up the receiver played snippets of old-style phone conversations. Change the Channel turned radio tuning into a two-person, room-scale game, connecting a radio's frequency dial to a physical floor-strip scale of wavelengths.",
   "images": ["", "", ""]
 }
